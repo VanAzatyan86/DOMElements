@@ -1,0 +1,73 @@
+.headerFirstPart {
+  background: #F2F2F2;
+}
+.headerFirstPart img {
+  width: 100px;
+}
+.headerFirstPart h1 {
+  color: #5E5E5E;
+}
+
+.headerLastPart {
+  background-color: #E8CC48;
+  text-align: center;
+}
+.headerLastPart ul {
+  width: 500px;
+}
+.headerLastPart ul li {
+  list-style-type: none;
+}
+.headerLastPart .headerLiStyle {
+  width: 100px;
+  height: 50px;
+  background: #FDEA93;
+  overflow: visible;
+  cursor: pointer;
+  align-items: center;
+  font-size: 20px;
+  border-radius: 5px;
+  border-bottom: 2px solid;
+  box-shadow: rgb(190, 179, 165);
+}
+.headerLastPart .lastPart .myBtn button {
+  width: 200px;
+  background: #a99240;
+  color: rgb(222, 220, 220);
+  border: none;
+}
+
+.btnReadMore button {
+  width: 100px;
+  background: #a92f31;
+  border: none;
+  margin-left: 1000px;
+  color: white;
+}
+
+.onlyBorder {
+  border-bottom: 1px dotted rgb(149, 149, 149);
+}
+
+.main {
+  display: grid;
+  grid-template-columns: repeat(3, 30%);
+  gap: 50px;
+}
+.main img {
+  width: 100%;
+}
+
+.mainBloksP {
+  color: #515151;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.mainBloksH5 {
+  color: #C39D2E;
+  line-height: 1.7em;
+  font-family: MV Boli;
+  font-size: 18px;
+  padding-top: 15px;
+}/*# sourceMappingURL=style.css.map */
